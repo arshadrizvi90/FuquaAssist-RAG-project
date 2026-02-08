@@ -8,9 +8,6 @@
 
 FuquaAssist is a Retrieval-Augmented Generation (RAG) system designed to solve the critical challenge of managing vast repositories of unstructured knowledge in institutional documents. By combining advanced embedding models with large language models, this system provides accurate, hallucination-free answers to institution-specific queries.
 
-**Team 41C**: Gaurang Agrawal, Sawaiz Fatar, Skylar Qiu, Marwa Bouabid, Arshad Rizvi  
-**Course**: Modern Analytics 546Q - Fall 2 - MQM 2026  
-**Professor**: Xu Jiaming
 
 ## 🎯 Business Problem
 
@@ -264,12 +261,6 @@ Fuqua School of Business, Duke University.
 - [ ] User feedback loop for continuous improvement
 
 ## 👥 Team Contributions
-
-- **Gaurang Agrawal (ga160)**: Evaluation & Benchmarking - Developed eval.py harness
-- **Sawaiz Fatar (msf59)**: Data Ingestion - Implemented PyPDF2 parsing logic
-- **Skylar Qiu (zq67)**: Chunking Strategy - Designed sliding window approach
-- **Marwa Bouabid (mb951)**: Modeling & Architecture - Integrated sentence-transformers
-- **Arshad Rizvi (ar845)**: Pipeline Integration - Engineered core RAG logic
 
 ## 📜 License
 
